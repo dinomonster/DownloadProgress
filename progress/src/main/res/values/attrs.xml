@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DownloadProgress">
+        <!-- 状态0未下载 1下载中 2下载完成 -->
+        <attr name="statue" format="integer" />
+    </declare-styleable>
+</resources>
